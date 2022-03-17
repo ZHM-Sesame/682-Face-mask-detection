@@ -1,0 +1,5 @@
+path: "C:/Users/leima/OneDrive - University of Massachusetts/682/Final project/datasets/facemask/images/"
+train: "C:/Users/leima/OneDrive - University of Massachusetts/682/Final project/datasets/facemask/images/train"
+val: "C:/Users/leima/OneDrive - University of Massachusetts/682/Final project/datasets/facemask/images/val"
+nc: 3
+names: ['with_mask', 'mask_weared_incorrect', 'without_mask']
